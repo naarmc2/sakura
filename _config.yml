@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: sakura
+description: "a floral jeklly theme"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
