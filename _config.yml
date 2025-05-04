@@ -6,4 +6,4 @@ exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
 
 enable_dark_theme: true
 
-footer: "(c) 2025 <a href='https://sporeball.dev' ›sporeball‹/a> &mdash; MIT license"
+footer: "(c) 2025 <a href='https://sporeball.dev' >sporeball</a> &mdash; MIT license"
