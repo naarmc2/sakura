@@ -1,8 +1,7 @@
----
+---layout: default
 ---
 
 # Sakura
 
 ## floral theme
 
-layout: default
